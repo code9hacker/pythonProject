@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d619cebd-cba1-4d73-8251-d62d6b7ba13b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/Decipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/decryptor2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/decryptor3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/decryptor4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/decryptor5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/geeks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/results-10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/results-20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../offsec-course/ensorcellment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../offsec-course/labrynth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../offsec-course/labyrinth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/decryptor.py" beforeDir="false" afterPath="$PROJECT_DIR$/project1/decryptor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/project1/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project1/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/project1/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="26ZzZr2V7Pex9larQHomRYHkfi3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Applied_Crypto_Projects" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d619cebd-cba1-4d73-8251-d62d6b7ba13b" name="Changes" comment="" />
+      <created>1647645954539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647645954539</updated>
+      <workItem from="1647645955671" duration="15000" />
+    </task>
+    <servers />
+  </component>
+</project>
